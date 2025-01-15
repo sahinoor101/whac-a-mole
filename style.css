@@ -85,5 +85,12 @@ button{
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
   padding: 0 1rem;
-
+}
+.score{
+  background-color: rgb(188, 188, 255);
+  font-size: 2rem;
+  font-weight: bolder;
+}
+.timer{
+  font-size: 2rem;
 }
